@@ -15,6 +15,7 @@ paths:
         - name: mindata
           in: query
           description: "minimum data degli articoli"
+          type: string
         - name: categoria
           in: query
           description: "Categoria degli articoli"
